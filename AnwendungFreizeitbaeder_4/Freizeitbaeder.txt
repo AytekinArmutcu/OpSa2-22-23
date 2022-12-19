@@ -1,0 +1,42 @@
+Daten des Freizeitbades
+Name des Freizeitbads: twt
+Öffnungszeit des Freizeitbads: 2.0 -- 3.0
+Beckenlänge des Freizeitbbads: 5
+Wassertemperatur des Freizeitbbads: 6
+
+Daten des Freizeitbades
+Name des Freizeitbads: 			testrweorh
+Öffnungszeit des Freizeitbads: 	2.0 -- 4.0
+Beckenlänge des Freizeitbbads: 		5
+Wassertemperatur des Freizeitbbads: 	6
+
+Daten des Freizeitbades
+Name des Freizeitbads: 			usagz
+Öffnungszeit des Freizeitbads: 			3.0 -- 4.0
+Beckenlänge des Freizeitbbads: 		5
+Wassertemperatur des Freizeitbbads: 	6
+
+Daten des Freizeitbades
+Name des Freizeitbads: 			test
+Öffnungszeit des Freizeitbads: 		3.0 -- 4.0
+Beckenlänge des Freizeitbbads: 		5
+Wassertemperatur des Freizeitbbads: 	6
+
+Daten des Freizeitbades
+Name des Freizeitbads: 			test
+Öffnungszeit des Freizeitbads: 		3.0 -- 4.0
+Beckenlänge des Freizeitbbads: 		5
+Wassertemperatur des Freizeitbbads: 	6
+
+Daten des Freizeitbades
+Name des Freizeitbads: 			test
+Öffnungszeit des Freizeitbads: 		3.0 -- 4.0
+Beckenlänge des Freizeitbbads: 		5
+Wassertemperatur des Freizeitbbads: 	6
+
+Daten des Freizeitbades
+Name des Freizeitbads: 			test
+Öffnungszeit des Freizeitbads: 		3.0 -- 4.0
+Beckenlänge des Freizeitbbads: 		5
+Wassertemperatur des Freizeitbbads: 	6
+
